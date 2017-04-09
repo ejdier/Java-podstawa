@@ -1,0 +1,5 @@
+eclipse.m2.WorkspacelifecycleMappingsLocation=/opt/devel/workspace/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+eclipse.m2.defaultRuntime=/opt/devel/apache-maven-3.1.0
+eclipse.m2.globalSettingsFile=/opt/devel/apache-maven-3.1.0/conf/settings.xml
+eclipse.m2.runtimes=/opt/devel/apache-maven-3.1.0
+eclipse.preferences.version=1

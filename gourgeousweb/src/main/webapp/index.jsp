@@ -1,1 +1,13 @@
-"HelloWorld"
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+Witaj na stronie <strong>Pożyczek u Bronka</strong>-<em>"Komornik to Nasz przyjaciel</em>
+<br/>
+<a href="/loanParameters.jsp">złoz wniosek online</a>
+</body>
+</html>

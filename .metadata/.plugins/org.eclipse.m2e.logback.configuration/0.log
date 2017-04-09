@@ -921,3 +921,11 @@
 2017-04-09 15:44:02,137 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/devel/workspace/gourgeousweb/src/main/resources
 2017-04-09 15:44:02,138 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2017-04-09 15:44:02,138 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/devel/workspace/gourgeousweb/src/test/resources
+2017-04-09 15:44:13,834 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-09 15:44:13,834 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/devel/workspace/gourgeousweb/src/main/resources
+2017-04-09 15:44:13,836 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-09 15:44:13,836 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/devel/workspace/gourgeousweb/src/test/resources
+2017-04-09 15:46:40,763 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-09 15:46:40,763 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/devel/workspace/gourgeousweb/src/main/resources
+2017-04-09 15:46:40,764 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-09 15:46:40,764 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/devel/workspace/gourgeousweb/src/test/resources
